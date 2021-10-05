@@ -34,7 +34,7 @@ jobs:
                        +ttl                      \
                        +io_maple                 \
                        +io_fiops                 \
-                       ++io_sio                  \
+                       +io_sio                   \
                        +io_zen                   \
                        +io_anxiety               \
                        +sched_performance        \
